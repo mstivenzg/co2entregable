@@ -16,7 +16,7 @@ WILMER ARLEY DE JESUS CEBALLOS HOYOS23:26
 - **Nombre Completo:** Michael Stiven Zapata Giraldo 
 - **Cédula:** 1017172358
 - **Programa Académico:** Ingeniería Eléctrica
-WILMER ARLEY DE JESUS CEBALLOS HOYOS23:31
+
 # Entregable Final
 
 [Video YouTube](https://youtu.be/A_3O4zVupwM)
