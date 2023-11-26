@@ -16,7 +16,7 @@
 - **Cédula:** 1017172358
 - **Programa Académico:** Ingeniería Eléctrica
 
-# Entregable Final
+# Video Entregable Final
 
 [Video YouTube](https://youtu.be/A_3O4zVupwM)
 
