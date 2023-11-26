@@ -20,6 +20,10 @@
 
 [Video YouTube](https://youtu.be/A_3O4zVupwM)
 
+# Instrucciones para correr el notebook
+
+No es necesario descargar nada en especifico ya que el notebook esta configurado para descargar todos los datos de Kagle, sin embargo aqui esta el enlace de la competencia en [Kagle](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv)
+
 # Video del segundo entregable 
 Enlace del video:
 https://youtu.be/xBXtD-yNHtM
