@@ -1,4 +1,3 @@
-WILMER ARLEY DE JESUS CEBALLOS HOYOS23:26
 ### Participante 1:
 
 - **Nombre Completo:** Wilmer Arley de Jesús Ceballos Hoyos
